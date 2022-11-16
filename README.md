@@ -4,7 +4,7 @@
 
 + Levels were simple and good
 + Effect of explode was really nice
-+ Upload section is working well but problems in saving that data
++ Upload section is working well but problems in saving data
 + Reload and ammo counter system works well
 
 
