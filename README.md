@@ -2,7 +2,7 @@
 3RD ALL-BY-MYSELF GAME DEVELOPMENT PROJECT (1ST 3D ONE)
 
 
-+ Levels are simple and good
++ Levels were simple and good
 + Effect of explode was really nice
 + Upload section is working well but problems in saving that data
 + Reload and ammo counter system works well
