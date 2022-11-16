@@ -9,8 +9,8 @@
 
 
 Problems:
-Save system not working; each time scene loads data resets
-"Next level" is not working, when level 8 is done, next level buton must direct to level 9
-Controls and UI wasn't optimized for mobile
-When enemies die, they still shoot a bullet
-Ceiling cover of rooms was a pratic idea but not worked well
+- Save system not working; each time scene loads data resets
+- "Next level" is not working, when level 8 is done, next level buton must direct to level 9
+- Controls and UI wasn't optimized for mobile
+- When enemies die, they still shoot a bullet
+- Ceiling cover of rooms was a pratic idea but not worked well
